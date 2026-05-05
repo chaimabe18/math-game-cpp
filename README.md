@@ -28,3 +28,9 @@ Correct!
 - Improved logical thinking and problem solving
 - Experience with random number generation
 - Better understanding of user input handling
+- 
+## Features
+- Random question generation
+- Real-time answer validation
+- Score tracking system
+- Multiple difficulty levels
